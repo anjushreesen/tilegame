@@ -1,2 +1,3 @@
-# tilegam![Screenshot (1)](https://user-images.githubusercontent.com/73659975/142582293-49a2e7ae-7e95-4d96-95cb-5f24466da959.png)
-e
+# platform based tile game![Screenshot (2)](https://user-images.githubusercontent.com/73659975/142582727-962cb6b7-4910-4502-bf8c-dc2471e05687.png)
+
+
